@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pytesseract
+pandas
+tk
+
